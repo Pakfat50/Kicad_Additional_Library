@@ -1,0 +1,32 @@
+EESchema-LIBRARY Version 2.3
+#encoding utf-8
+#(c) SnapEDA 2016 (snapeda.com)
+#This work is licensed under a Creative Commons Attribution-ShareAlike 4.0 International License (CC BY-SA) with Design Exception 1.0
+#
+# 93C46
+#
+DEF 93C46 IC 0 40 Y Y 1 L N
+F0 "IC" -301 220 50 H V L BNN
+F1 "93C46" -300 -390 50 H V L BNN
+F2 "SOT23-6L" 0 0 50 H I L BNN
+F3 "STMicroelectronics" 0 0 50 H I L BNN
+F4 "None" 0 0 50 H I L BNN
+F5 "None" 0 0 50 H I L BNN
+F6 "Unavailable" 0 0 50 H I L BNN
+F7 "93C46" 0 0 50 H I L BNN
+F8 "" 0 0 50 H I L BNN
+DRAW
+P 2 0 0 10 -300 200 -300 -300 N
+P 2 0 0 10 -300 -300 300 -300 N
+P 2 0 0 10 300 -300 300 200 N
+P 2 0 0 10 300 200 -300 200 N
+X CS 5 -500 100 200 R 40 40 0 0 I 
+X SK 4 -500 0 200 R 40 40 0 0 I 
+X DIN 3 -500 -100 200 R 40 40 0 0 I 
+X DOUT 1 -500 -200 200 R 40 40 0 0 B 
+X VCC 6 500 100 200 L 40 40 0 0 I 
+X GND 2 500 -200 200 L 40 40 0 0 I 
+ENDDRAW
+ENDDEF
+#
+# End Library

@@ -1,0 +1,8 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP PGA281
+D PGA, 1 to 128V/V , TI
+K PGA, TI, 281
+$ENDCMP
+#
+#End Doc Library

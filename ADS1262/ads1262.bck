@@ -1,0 +1,8 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP ADS1262
+D 32bit ADC
+K ADS1262
+$ENDCMP
+#
+#End Doc Library

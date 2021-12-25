@@ -1,0 +1,196 @@
+PCBNEW-LibModule-V1  
+# encoding utf-8
+Units mm
+$INDEX
+HRS_DM3AT-SF-PEJM5
+$EndINDEX
+$MODULE HRS_DM3AT-SF-PEJM5
+Po 0 0 0 15 00000000 00000000 ~~
+Li HRS_DM3AT-SF-PEJM5
+Cd Micro SD card holder with push-to-eject feature.
+Sc 00000000
+At SMD
+Op 0 0 0
+.SolderMask 0
+.SolderPaste 0
+T0 -7.90617 2.4666 1.00269 1.00269 900 0.05 N V 21 "HRS_DM3AT-SF-PEJM5"
+T1 8.88556 2.33038 1.00232 1.00232 900 0.05 N V 21 "VAL**"
+DP 0 0 0 0 4 0.381 24
+Dl -6.82481 0.45
+Dl -6.05 0.45
+Dl -6.05 3.71351
+Dl -6.82481 3.71351
+DP 0 0 0 0 4 0.381 24
+Dl -6.81013 4.9
+Dl -6.05 4.9
+Dl -6.05 8.51265
+Dl -6.81013 8.51265
+DP 0 0 0 0 4 0.381 24
+Dl -5.71627 6.3
+Dl -5 6.3
+Dl -5 13.9397
+Dl -5.71627 13.9397
+DP 0 0 0 0 4 0.381 24
+Dl -5.00647 5
+Dl 3.7 5
+Dl 3.7 6.60853
+Dl -5.00647 6.60853
+DP 0 0 0 0 4 0.381 24
+Dl 3.35563 14.7
+Dl 5.9 14.7
+Dl 5.9 16.077
+Dl 3.35563 16.077
+DS -6.5 -0.25 7.35 -0.25 0.127 24
+DS 7.35 -0.25 7.35 15.7 0.127 24
+DS 7.35 15.7 -6.5 15.7 0.127 24
+DS -6.5 15.7 -6.5 -0.25 0.127 24
+DS 5.5 16 5.5 16.5 0.127 21
+DS 5.5 16.5 5 16.5 0.127 21
+DS 5 16.5 -5 16.5 0.127 21
+DS -5 16.5 -5.5 16.5 0.127 21
+DS -5.5 16.5 -5.5 16 0.127 21
+DS 5.5 16.8 5.5 17.3 0.127 21
+DS 5.5 17.3 5 17.3 0.127 21
+DS 5 17.3 -5 17.3 0.127 21
+DS -5 17.3 -5.5 17.3 0.127 21
+DS -5.5 17.3 -5.5 16.8 0.127 21
+DS -5.5 15.7 5.5 15.7 0.127 21
+DS 5 21.3 -5 21.3 0.127 21
+DS 5.5 15.7 5.5 16 0.127 21
+DA 5 16 5 16.5 -900 0.127 21
+DS 5.5 16.5 5.5 16.8 0.127 21
+DA 5 16.8 5 17.3 -900 0.127 21
+DS 5.5 17.3 5.5 20.8 0.127 21
+DA 5 20.8 5 21.3 -900 0.127 21
+DS -5.5 15.7 -5.5 16 0.127 21
+DA -5 16 -5 16.5 900 0.127 21
+DS -5.5 16.5 -5.5 16.8 0.127 21
+DA -5 16.8 -5 17.3 900 0.127 21
+DS -5.5 17.3 -5.5 20.8 0.127 21
+DA -5 20.8 -5 21.3 900 0.127 21
+DS -6.05 -0.25 -6.5 -0.25 0.127 21
+DS -6.5 -0.25 -6.5 0.3 0.127 21
+DS 5.5 -0.25 7.35 -0.25 0.127 21
+DS 7.35 -0.25 7.35 13.9 0.127 21
+DS -7.25 -1 8.125 -1 0.05 24
+DS 8.125 -1 8.125 16.3 0.05 24
+DS 8.125 16.3 5.75 16.3 0.05 24
+DS 5.75 16.3 5.75 21.5 0.05 24
+DS 5.75 21.5 -5.75 21.5 0.05 24
+DS -5.75 21.5 -5.75 16.3 0.05 24
+DS -5.75 16.3 -7.25 16.3 0.05 24
+DS -7.25 16.3 -7.25 -1 0.05 24
+DC 3.25 -1.5 3.5 -1.5 0.2 21
+$PAD
+Sh "1" R 0.7 1.2 0 0 0
+At SMD N 00888000
+.SolderMask 0
+.SolderPaste 0
+Ne 0 ""
+Po 3.2 0
+$EndPAD
+$PAD
+Sh "2" R 0.7 1.2 0 0 0
+At SMD N 00888000
+.SolderMask 0
+.SolderPaste 0
+Ne 0 ""
+Po 2.1 0
+$EndPAD
+$PAD
+Sh "3" R 0.7 1.2 0 0 0
+At SMD N 00888000
+.SolderMask 0
+.SolderPaste 0
+Ne 0 ""
+Po 1 0
+$EndPAD
+$PAD
+Sh "4" R 0.7 1.2 0 0 0
+At SMD N 00888000
+.SolderMask 0
+.SolderPaste 0
+Ne 0 ""
+Po -0.1 0
+$EndPAD
+$PAD
+Sh "5" R 0.7 1.2 0 0 0
+At SMD N 00888000
+.SolderMask 0
+.SolderPaste 0
+Ne 0 ""
+Po -1.2 0
+$EndPAD
+$PAD
+Sh "6" R 0.7 1.2 0 0 0
+At SMD N 00888000
+.SolderMask 0
+.SolderPaste 0
+Ne 0 ""
+Po -2.3 0
+$EndPAD
+$PAD
+Sh "7" R 0.7 1.2 0 0 0
+At SMD N 00888000
+.SolderMask 0
+.SolderPaste 0
+Ne 0 ""
+Po -3.4 0
+$EndPAD
+$PAD
+Sh "8" R 0.7 1.2 0 0 0
+At SMD N 00888000
+.SolderMask 0
+.SolderPaste 0
+Ne 0 ""
+Po -4.5 0
+$EndPAD
+$PAD
+Sh "SWB" R 0.7 1.2 0 0 0
+At SMD N 00888000
+.SolderMask 0
+.SolderPaste 0
+Ne 0 ""
+Po -5.45 0
+$EndPAD
+$PAD
+Sh "P4" R 1 1.2 0 0 0
+At SMD N 00888000
+.SolderMask 0
+.SolderPaste 0
+Ne 0 ""
+Po 4.75 0
+$EndPAD
+$PAD
+Sh "P1" R 1 1.2 0 0 0
+At SMD N 00888000
+.SolderMask 0
+.SolderPaste 0
+Ne 0 ""
+Po -6.4 4.3
+$EndPAD
+$PAD
+Sh "SWA" R 1 0.8 0 0 0
+At SMD N 00888000
+.SolderMask 0
+.SolderPaste 0
+Ne 0 ""
+Po -6.4 10.5
+$EndPAD
+$PAD
+Sh "P2" R 1 2.8 0 0 0
+At SMD N 00888000
+.SolderMask 0
+.SolderPaste 0
+Ne 0 ""
+Po -6.4 14.65
+$EndPAD
+$PAD
+Sh "P3" R 1.3 1.9 0 0 0
+At SMD N 00888000
+.SolderMask 0
+.SolderPaste 0
+Ne 0 ""
+Po 7.1 15.1
+$EndPAD
+$EndMODULE HRS_DM3AT-SF-PEJM5

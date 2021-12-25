@@ -1,0 +1,52 @@
+PCBNEW-LibModule-V1  
+# encoding utf-8
+Units mm
+$INDEX
+HRS_U.FL-R-SMT(10)
+$EndINDEX
+$MODULE HRS_U.FL-R-SMT(10)
+Po 0 0 0 15 00000000 00000000 ~~
+Li HRS_U.FL-R-SMT(10)
+Cd 
+Sc 00000000
+At SMD
+Op 0 0 0
+.SolderMask 0
+.SolderPaste 0
+T0 -0.568951 -2.31192 0.80136 0.80136 0 0.05 N V 21 "HRS_U.FL-R-SMT(10)"
+T1 -0.0600637 3.09612 0.80107 0.80107 0 0.05 N V 21 "VAL**"
+DS -1.3 -1.3 -1.3 1.3 0.127 24
+DS 1.3 -1.3 1.3 1.3 0.127 24
+DS -1.3 -1.3 1.3 -1.3 0.127 21
+DS -0.7 1.3 0.7 1.3 0.127 24
+DC 0 0 1 0 0.127 24
+DC 0 0 0.3 0 0 24
+DS -2.4 -1.6 2.4 -1.6 0.127 24
+DS 2.4 -1.6 2.4 2.4 0.127 24
+DS 2.4 2.4 -2.4 2.4 0.127 24
+DS -2.4 2.4 -2.4 -1.6 0.127 24
+$PAD
+Sh "SIG" R 1 1.05 0 0 0
+At SMD N 00888000
+.SolderMask 0
+.SolderPaste 0
+Ne 0 ""
+Po 0 1.525
+$EndPAD
+$PAD
+Sh "GND1" R 1.05 2.2 0 0 0
+At SMD N 00888000
+.SolderMask 0
+.SolderPaste 0
+Ne 0 ""
+Po -1.475 0
+$EndPAD
+$PAD
+Sh "GND2" R 1.05 2.2 0 0 0
+At SMD N 00888000
+.SolderMask 0
+.SolderPaste 0
+Ne 0 ""
+Po 1.475 0
+$EndPAD
+$EndMODULE HRS_U.FL-R-SMT(10)

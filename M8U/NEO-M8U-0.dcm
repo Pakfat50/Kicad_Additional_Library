@@ -1,0 +1,8 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP NEO-M8U-0
+D u-blox M8 Untethered Dead Reckoning module including 3D inertial sensors
+F https://www.u-blox.com/sites/default/files/NEO-M8U_DataSheet_(UBX-15015679).pdf
+$ENDCMP
+#
+#End Doc Library

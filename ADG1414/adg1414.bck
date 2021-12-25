@@ -1,0 +1,8 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP ADG1414
+D Serial, 8ch analog swich IC
+K ADG1414
+$ENDCMP
+#
+#End Doc Library

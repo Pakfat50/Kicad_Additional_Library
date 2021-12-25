@@ -1,0 +1,76 @@
+PCBNEW-LibModule-V1  
+# encoding utf-8
+Units mm
+$INDEX
+DIO_ESDA6V1-5W6
+$EndINDEX
+$MODULE DIO_ESDA6V1-5W6
+Po 0 0 0 15 00000000 00000000 ~~
+Li DIO_ESDA6V1-5W6
+Cd 
+Sc 00000000
+At SMD
+Op 0 0 0
+.SolderMask 0
+.SolderPaste 0
+T0 -0.965802 -1.53068 0.315532 0.315532 0 0.05 N V 21 "DIO_ESDA6V1-5W6"
+T1 -0.766837 1.51425 0.31611 0.31611 0 0.05 N V 21 "VAL**"
+DS 0.625 -1 -0.625 -1 0.127 24
+DS -0.625 -1 -0.625 1 0.127 24
+DS -0.625 1 0.625 1 0.127 24
+DS 0.625 1 0.625 -1 0.127 24
+DC -1.778 -0.635 -1.678 -0.635 0.2 21
+DS -1.7 -1.25 -1.7 1.25 0.05 24
+DS -1.7 1.25 1.7 1.25 0.05 24
+DS 1.7 1.25 1.7 -1.25 0.05 24
+DS 1.7 -1.25 -1.7 -1.25 0.05 24
+DC -0.3 -0.635 -0.2 -0.635 0.2 24
+$PAD
+Sh "1" R 1.05 0.4 0 0 0
+At SMD N 00888000
+.SolderMask 0
+.SolderPaste 0
+Ne 0 ""
+Po -0.925 -0.65
+$EndPAD
+$PAD
+Sh "2" R 1.05 0.4 0 0 0
+At SMD N 00888000
+.SolderMask 0
+.SolderPaste 0
+Ne 0 ""
+Po -0.925 0
+$EndPAD
+$PAD
+Sh "3" R 1.05 0.4 0 0 0
+At SMD N 00888000
+.SolderMask 0
+.SolderPaste 0
+Ne 0 ""
+Po -0.925 0.65
+$EndPAD
+$PAD
+Sh "4" R 1.05 0.4 0 0 1800
+At SMD N 00888000
+.SolderMask 0
+.SolderPaste 0
+Ne 0 ""
+Po 0.925 0.65
+$EndPAD
+$PAD
+Sh "5" R 1.05 0.4 0 0 1800
+At SMD N 00888000
+.SolderMask 0
+.SolderPaste 0
+Ne 0 ""
+Po 0.925 0
+$EndPAD
+$PAD
+Sh "6" R 1.05 0.4 0 0 1800
+At SMD N 00888000
+.SolderMask 0
+.SolderPaste 0
+Ne 0 ""
+Po 0.925 -0.65
+$EndPAD
+$EndMODULE DIO_ESDA6V1-5W6

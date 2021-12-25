@@ -1,0 +1,29 @@
+EESchema-LIBRARY Version 2.3
+#encoding utf-8
+#(c) SnapEDA 2016 (snapeda.com)
+#This work is licensed under a Creative Commons Attribution-ShareAlike 4.0 International License (CC BY-SA) with Design Exception 1.0
+#
+# U.FL-R-SMT(10)
+#
+DEF U.FL-R-SMT(10) J 0 40 Y Y 1 L N
+F0 "J" 150 50 50 H V L BNN
+F1 "U.FL-R-SMT(10)" 150 -100 50 H V L BNN
+F2 "HRS_U.FL-R-SMT(10)" 0 0 50 H I L BNN
+F3 "Good" 0 0 50 H I L BNN
+F4 "Hirose" 0 0 50 H I L BNN
+F5 "CONN U.FL RCPT STR 50 OHM SMD" 0 0 50 H I L BNN
+F6 "0.83 USD" 0 0 50 H I L BNN
+F7 "FakePackage u" 0 0 50 H I L BNN
+F8 "U.FL-R-SMT(10)" 0 0 50 H I L BNN
+DRAW
+C 0 0 141 0 0 10 N
+P 2 0 0 10 0 -150 0 -350 N
+P 2 0 0 10 0 0 -200 0 N
+C 0 0 50 0 0 0 N
+X GND GND1 0 -550 200 U 40 40 0 0 P 
+X GND GND2 0 -550 200 U 40 40 0 0 P 
+X SIG SIG -400 0 200 R 40 40 0 0 B 
+ENDDRAW
+ENDDEF
+#
+# End Library

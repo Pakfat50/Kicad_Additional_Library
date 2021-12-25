@@ -1,0 +1,8 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP FT231XQ-R
+D FTDI Chip FT231XQ-R, USB Transceiver
+F https://www.arrow.com/en/products/ft231xq-r/ftdi-chip
+$ENDCMP
+#
+#End Doc Library
